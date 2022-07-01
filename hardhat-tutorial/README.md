@@ -1,4 +1,6 @@
-0x1C2248499Bf3dad43C175f350aa84F5249CD3585
+0xd5F7e367126d404dFA5277D8F0E49fFA7AE34B92
+
+<https://nft-collection-xi-one.vercel.app/>
 
 # Basic Sample Hardhat Project
 
